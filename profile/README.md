@@ -23,6 +23,8 @@ and Life sciences.
 | quantum-gates |[GitHub](https://pypi.org/project/quantum-gates/)| [quantum-gates.readthedocs.io](https://quantum-gates.readthedocs.io/en/latest/)|
 | Quantum Phase Classification |[GitHub](https://github.com/CERN-IT-INNOVATION/Quantum-Phase-Detection-ANNNI)| [ Quantum-Phase-Detection-ANNNI.readthedocs.io](https://cern-qpd-annni.readthedocs.io/en/latest/index.html)|
 | QuTree |[GitHub](https://github.com/CERN-IT-INNOVATION/qutree)| [pyqutree.readthedocs.io](https://pyqutree.readthedocs.io/en/latest/)|
+| TSP |[GitHub](https://github.com/CERN-IT-INNOVATION/CVQC)| TODO|
+
 
 ## Repo creation best practices
 
